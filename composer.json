@@ -11,7 +11,7 @@
     "style",
     "css"
   ],
-  "homepage": "https://github.com/voku/CssToInlineStyles",
+  "homepage": "https://github.com/haet/CssToInlineStyles",
   "license": "BSD-3-Clause",
   "authors": [
     {
@@ -27,7 +27,7 @@
     }
   ],
   "require": {
-    "php": ">=5..0",
+    "php": ">=5.6.0",
     "symfony/css-selector": "^2.8|~3.0",
     "samacs/simple_html_dom": "dev-master"
   },
